@@ -21,7 +21,6 @@ Este é um template simples e estiloso para criar sua própria página de Link B
   ```bash
   git clone https://github.com/Renato-Rhuan/link-bio.git
   ```
-- Ou faça o download do ZIP [clicando aqui](https://github.com/RicardoMouraa/template-link-bio/archive/refs/heads/main.zip).
 
 ### 2. Edite o Conteúdo
 1. Abra os arquivos no seu editor de código favorito.
